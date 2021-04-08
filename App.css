@@ -1,0 +1,166 @@
+.App {
+  text-align: center;
+}
+.card {
+  margin-left: 550px;
+}
+.demo{
+  text-align: center;
+    color: rgb(4, 4, 24);
+    background-color: rgb(97, 81, 83);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 0px;
+}
+.lock1
+{
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 1px solid black;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-radius: 20px;
+}
+.foot {
+  margin-left: 400x;
+}
+.card1 {
+   /* padding-left: 100px;
+  padding-right: 100px; */
+  margin-left: 0px;
+  margin-right: 0px; 
+  height: 20px;
+}
+.card2 {
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 10px solid white;
+  padding-top: 20px;
+  padding-bottom: 220px;
+  border-radius: 0px;
+  margin-top: 160px;
+  margin-left: 500px;
+  margin-right: 500px; 
+  height: 15px;
+}
+.bg {
+  height: 600px;
+  background-image:url("https://www.freecodecamp.org/news/content/images/2020/04/w-qjCHPZbeXCQ-unsplash.jpg");
+}
+.main{
+  height: 600px;
+  background-size: cover;
+  /* background-image: url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Minimalist-Crumpled-Paper-Simple-Background-Image.jpg"); */
+}
+
+.admin{
+  margin-top: 10px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2OTOrgchkyKWMLLbu5UAgF4oobLlSs5w2bw&usqp=CAU");
+  background-size: cover;
+  height: 600px;
+  padding-left: 800;
+  margin-left: 600;
+}
+
+.user{
+  margin-top: 10px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2OTOrgchkyKWMLLbu5UAgF4oobLlSs5w2bw&usqp=CAU");
+  background-size: cover;
+  height: 600px;
+  
+}
+.userpage{
+  margin-top: 10px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSOIekftVu82jXDTGGpdwILCH1xu7JgXPt6w&usqp=CAU");
+  background-size: cover;
+  height: 600px;
+
+}
+.demo1 {
+  background-image:url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm21-light-0531-teddy-9_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=eef5b53a758aff72f4dc9b1c2543588e");
+  background-size: cover;
+  height: 600px;
+}
+
+.addamount {
+
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSOIekftVu82jXDTGGpdwILCH1xu7JgXPt6w&usqp=CAU");
+  background-size: cover;
+  height: 1000px;
+}
+
+.currentadd {
+  margin-top: 0px;
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSOIekftVu82jXDTGGpdwILCH1xu7JgXPt6w&usqp=CAU");
+  background-size: cover;
+  height: 1000px;
+}
+
+.home {
+  background-image:url("data:image/jpeg;base64,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");
+  background-size: cover;
+  
+}
+h3 {
+  text-align: center;
+    color: rgb(6, 49, 43);
+    background-color: rgba(201, 223, 199, 0.952);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 0px;
+    
+}
+
+.edituser {
+  margin-top: 10px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSOIekftVu82jXDTGGpdwILCH1xu7JgXPt6w&usqp=CAU");
+  background-size: cover;
+  height: 600px;
+}
+
+.adduser {
+  margin-top: 10px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ69jIsh3MPHXSxcoE-TB6SSf_qTkvr7X14uA&usqp=CAU");
+  background-size: cover;
+  height: 600px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.cards{
+  color: 'white'; 
+  font-Family: serif; 
+  font-Size: 40px; 
+  text-Align: 'center';
+   margin-Top: '90px' 
+}
